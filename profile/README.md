@@ -17,8 +17,10 @@ Global Network of Bangladeshi Biotechnologists (GNOBB), ASI School of Life, and 
 - Prepare participants for graduate studies, academic publishing, and research careers
 - Foster interdisciplinary collaboration and global networking
   
-<p align="center">
-  <img src="https://img.shields.io/badge/OS-Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Language-R-276DC3?style=flat&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/Field-Bioinformatics-4CAF50?style=flat&logo=databricks&logoColor=white" alt="Bioinformatics" />
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" title="R"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
+  <img src="https://www.vectorlogo.zone/logos/bioconductor/bioconductor-icon.svg" width="40" title="Bioconductor"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
 </p>
