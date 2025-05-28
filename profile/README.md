@@ -1,4 +1,4 @@
-# GNOBB-SPSB-ASI Bioinformatics Internship (GSA Bioinformatics Internship)
+# GSA Bioinformatics Internship
 Hi there 👋
 Welcome to the official GitHub organization for the GNOBB-SPSB-ASI Bioinformatics Internship, also known as the GSA Bioinformatics Internship. This 6-month hybrid internship program is designed to develop hands-on expertise in bioinformatics through a combination of structured instruction, mentored projects, and collaborative research activities.
 
