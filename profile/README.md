@@ -6,9 +6,9 @@ Welcome to the official GitHub organization for the GNOBB-SPSB-ASI Bioinformatic
 Global Network of Bangladeshi Biotechnologists (GNOBB), ASI School of Life, and Society for the Popularization of Science, Bangladesh (SPSB)
 <p align="center">
   <img src="GNOBB.png" alt="SPSB" width="120"/>
+  <img src="SPSB.png" alt="SPSB" width="120"/>
   <img src="ASISchoolofLife.png" alt="ASISchoolofLife" width="120"/>
-  <img src="SPSB.png" alt="GSA" width="120"/>
-  <img src="GSABioinformaticsInternship.png" alt="ASI" width="120"/>
+  <img src="GSABioinformaticsInternship.png" alt="GSABioinformaticsInternship" width="120"/>
 </p>
   
 <p align="center">
