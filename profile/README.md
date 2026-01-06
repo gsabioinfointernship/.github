@@ -9,6 +9,9 @@ Global Network of Bangladeshi Biotechnologists (GNOBB), ASI School of Life, and 
   <img src="SPSB.png" alt="SPSB" width="120"/>
   <img src="ASISchoolofLife.png" alt="ASISchoolofLife" width="120"/>
   <img src="GSABioinformaticsInternship.png" alt="GSABioinformaticsInternship" width="120"/>
+  <img src="chiral-logo.jpg" alt="CHIRAL" width="120"/>
+  <img src="DeepBioLogo.png" alt="DeepBio" width="120"/>
+
 </p>
   
 <p align="center">
